@@ -2,7 +2,7 @@
 /*Streamer adatok megadása*/
 
 //A twitch neved amivel a csatorna elérhető --> http://twitch.tv/twitchneved.
-var streamer = "blyyyplays";
+var streamer = "mexx_official";
 //Kép megjelenítése amikor üres a menetrend.
 var noEventsPic = "blyyy_logo.png";
 //Kép megjelenítése amikor offline a menetrend(nembiztos, hogy megjelenik majd offline állapotban)
